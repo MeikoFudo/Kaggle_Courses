@@ -4,3 +4,4 @@
 ![Ericka42 - Intro to Machine Learning](https://github.com/MeikoFudo/Kaggle_Courses/assets/80260272/b5e95e1a-1351-4213-9386-ca3a2a3760c0)
 ![Ericka42 - Intermediate Machine Learning](https://github.com/MeikoFudo/Kaggle_Courses/assets/80260272/77e0d42e-1526-451c-a3ca-e30e8059fd60)
 ![Ericka42 - Intro to SQL](https://github.com/user-attachments/assets/0c656d7e-bc65-4261-9262-74e314e2a64a)
+![Ericka42 - Data Cleaning](https://github.com/user-attachments/assets/80b9a0fd-4edb-4900-8aa1-2d76eaeb78c9)
